@@ -1,6 +1,6 @@
 ## About Civic Party Software
 
-Civic Party Software is a software design and development consultancy founded by Mateo Clarke. 
+Civic Party Software is a software design and development consultancy based in Austin, Teaxs. Civic Party Software is founded by Mateo Clarke. 
 
 The mission of Civic Party Software is to use technology, data, and design to further the public good and to promote cooperative solutions through open source software development.
 
