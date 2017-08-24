@@ -1,6 +1,6 @@
 # Civic Party Software
 
-![https://avatars2.githubusercontent.com/u/25292659?v=4&s=300](Civic Party Logo)
+![Civic Party Logo](https://avatars2.githubusercontent.com/u/25292659?v=4&s=200)
 
 ## About Civic Party Software
 
